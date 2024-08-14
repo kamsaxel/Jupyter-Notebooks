@@ -9,7 +9,7 @@
 		<50 percentile/median>
 		<25,75>
 	categorical: 
-		.describe(include=object)
+=		.describe(includeobject)
 		<number of categories present in the variable>
 		<the top category with highest freq>
 		<freq of the top category>
